@@ -1,6 +1,6 @@
-## Hi there 👋
-### - 🌱 I’m currently learning Web Development at Trybe :rocket:
-Prazer, meu nome é Ismael!
+## Prazer, meu nome é Ismael! 👋
+### - 🌱 No momento estou estudando Web Development na Trybe :rocket:
+<!-- Prazer, meu nome é Ismael! -->
 Sempre tive um pé na tecnologia e outro na arte, meu objetivo no momento é unir esses mundos e entregar algo que faça sentido e agregue valor onde quer que eu esteja. No momento estou estudando desenvolvimento web na Trybe, para futuramente me tornar um profissional full-stack.
 
 Gosto bastante da parte de Front-end, devido a minha trajetória como ilustrador e designer, mas também estou bastante empolgado para conhecer mais de Back-end e mobile.
@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
