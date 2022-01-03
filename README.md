@@ -9,7 +9,7 @@ Gosto bastante da parte de Front-end, devido a minha trajetória como ilustrador
 <hr/>
 
 
-<b> :computer: &nbsp; Ferramentas que estou estudando </b>
+<b> :computer: &nbsp; Ferramentas que estou sempre estudando </b>
   <br/>
 
 
