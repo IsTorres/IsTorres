@@ -35,14 +35,9 @@ Gosto bastante da parte de Front-end, devido a minha trajetória como ilustrador
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat=square&logo=python&logoColor=white)&nbsp;
-![UX](https://img.shields.io/badge/-UX/UI%20design-red)&nbsp;
+![NEXT.js](https://img.shields.io/badge/-NEXT.JS-white)&nbsp;
 
 <!--
-Tecnologias
-/static/media/javascript.fd46ca41.svg icon/static/media/react.e27571ea.svg icon/static/media/redux.a9567540.svg icon/static/media/git.fd381642.svg icon/static/media/eslint.a3797a8b.svg icon/static/media/jest.bdea2af6.svg icon/static/media/mongodb.1aca075d.svg icon/static/media/nodejs.615ffbea.svg icon/static/media/mysql.0697e026.svg icon
-
-**IsTorres/IsTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
