@@ -1,7 +1,11 @@
 ## Prazer, meu nome é Ismael! 👋
 ### Sou desenvolvedor Full Stack :rocket:
 
-Sempre tive um pé na tecnologia e outro na arte, meu objetivo no momento é unir esses mundos e entregar algo que faça sentido e agregue valor onde quer que eu esteja.
+Sempre tive um pé na tecnologia e outro no design.
+<br><br>
+Acredito que com esses dois mundos é possivel mudar a forma como as coisas são pensadas, projetadas e construídas.
+<br><br>
+Meu objetivo é uni-los e entregar algo que faça sentido e agregue valor onde quer que eu esteja.
 
 <hr/>
 
