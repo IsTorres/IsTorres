@@ -5,10 +5,6 @@ Sempre tive um pé na tecnologia e outro na arte, meu objetivo no momento é uni
 
 <hr/>
 
-
-<b> :computer: &nbsp; </b>
-  <br/>
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
